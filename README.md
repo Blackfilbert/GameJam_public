@@ -1,1 +1,1 @@
-# GameJam_public
+# Whiskers_GameJam_2024
